@@ -10,7 +10,7 @@ You need to get your own Youtube Data API key and insert it in the Dataloader sc
 The API key will let you fetch about 10k comments and replies on a daily basis for free.
 
 
-Run the script and it will ask for a video url
+Run the Dataloader script and it will ask for a video url
 
 
 It will fetch associated comments and download them to a json file
