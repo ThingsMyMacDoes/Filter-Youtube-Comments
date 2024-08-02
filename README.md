@@ -30,6 +30,7 @@ In this browser window you can upload the json file with comments you've generat
 Load and Display comments will then do exactly that. You will also get a count of found keywords/keyphrases
 and 2 html files you can download
 
+![20240802_11h09m37s_grim](https://github.com/user-attachments/assets/e9cff923-c3e5-434b-8f9c-bfdf84741da8)
 
 
 
