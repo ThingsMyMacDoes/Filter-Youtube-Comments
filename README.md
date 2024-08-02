@@ -7,6 +7,8 @@ create a .txt file with all the words or phrases you want to find in the comment
 
 You need to get your own Youtube Data API key and insert it in the Dataloader script. If necessary consult YT on how to get an API key
 
+The API key will let you fetch about 10k comments and replies on a daily basis for free.
+
 
 Run the script and it will ask for a video url
 
@@ -26,7 +28,7 @@ In this browser window you can upload the json file with comments you've generat
 Load and Display comments will then do exactly that. You will also get a count of found keywords/keyphrases
 and 2 html files you can download
 
-The API key will let you fetch about 10k comments and replies on a daily basis for free.
+
 
 
 
