@@ -2,14 +2,18 @@ How it works
 
 Step 1
 
+create a .txt file with all the words or phrases you want to find in the comments. Put each word or phrase on a new line.
 
-You need to get your own Youtube Data API key and insert it in the Dataloader script.
+
+You need to get your own Youtube Data API key and insert it in the Dataloader script. If necessary consult YT on how to get an API key
 
 
 Run the script and it will ask for a video url
 
 
 It will fetch associated comments and download them to a json file
+
+The json file with all the comments and the txt file with your keywords will be used in the next step
 
 Step 2
 
