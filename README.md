@@ -1,5 +1,7 @@
 By using these two scripts you can search comments on YT videos for words or phrases of your choice. These can be 'bad' words or 'good' words or anything in between. This can be useful for identifying spammers but also to find other useful information. As an example you could create a list of brands or game titles and then find any mentions of those brands or game titles in he comments.
 
+Here's a short video on what it looks like : https://www.youtube.com/watch?v=_yJt7siSMEk&t=122s
+
 How it works
 
 Step 1
