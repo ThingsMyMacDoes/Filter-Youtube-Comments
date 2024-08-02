@@ -5,7 +5,7 @@ from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 
 # Your API key
-api_key = 'AIzaSyAoY3vMsz5jiN4Hh7_Azs3uArRIocJrUqw'
+api_key = 'YOUR_API_KEY_HERE'
 
 # Build the YouTube service
 youtube = build('youtube', 'v3', developerKey=api_key)
